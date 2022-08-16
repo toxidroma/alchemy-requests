@@ -1,5 +1,6 @@
 - You should
   - Submit ideas of yours to the **Issues tab**
+    - *PLEASE label your posts*
   - Try to take the physics engine into account and think of how it can be used in interesting ways
   - Be thorough
   - Include why you think it would be cool or helpful
